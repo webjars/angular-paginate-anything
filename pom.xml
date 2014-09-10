@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-paginate-anything</artifactId>
-    <version>2.5.4</version>
+    <version>2.5.5-SNAPSHOT</version>
     <name>Angular Directive to Paginate Anything</name>
     <description>WebJar for Angular Directive to Paginate Anything</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angular-paginate-anything</url>
         <connection>scm:git:https://github.com/webjars/angular-paginate-anything.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-paginate-anything.git</developerConnection>
-        <tag>angular-paginate-anything-2.5.4</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
