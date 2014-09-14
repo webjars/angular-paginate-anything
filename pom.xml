@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-paginate-anything</artifactId>
-    <version>2.5.5-SNAPSHOT</version>
+    <version>3.0.0-SNAPSHOT</version>
     <name>Angular Directive to Paginate Anything</name>
     <description>WebJar for Angular Directive to Paginate Anything</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>2.5.4</upstream.version>
+        <upstream.version>3.0.0</upstream.version>
         <upstream.url>https://raw.githubusercontent.com/begriffs/angular-paginate-anything/v${upstream.version}/src</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
         <requirejs>
